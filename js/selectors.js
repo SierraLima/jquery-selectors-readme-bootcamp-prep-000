@@ -1,20 +1,20 @@
 // declare your functions here...
 function paragraphSelector() {
-  $('p')
+  $('p');
 }
 
 function lastImageSelector() {
-  $('img:last')
+  $('img:last');
 }
 
 function ninjaBabySelector() {
-  $('#baby-ninja')
+  $('#baby-ninja');
 }
 
 function divSelector() {
-  $('.pics')
+  $('.pics');
 }
 
 function firstListItem() {
-  $('ul#pic-list li:first-child')
+  $('ul#pic-list li:first-child');
 }
